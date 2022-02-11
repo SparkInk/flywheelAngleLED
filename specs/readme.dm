@@ -1,0 +1,4 @@
+/*
+  This folder contatins a file with a specs and a schematics to build the system
+
+*/
